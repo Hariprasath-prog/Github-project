@@ -1,0 +1,3 @@
+1) version control system
+2) collaborative programming
+3) git means local user,hub means gloabal users
